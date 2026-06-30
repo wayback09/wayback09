@@ -19,12 +19,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contacts
 
 <p align="center">
 <a href="https://github.com/wayback09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://modrinth.com/user/wayback"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
 <a href="mailto:wayback145b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/1467226109237264650"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
