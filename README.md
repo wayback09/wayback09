@@ -4,7 +4,7 @@
 
 ### 🚀 Systems Enthusiast | Python, Go, Java Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Simplicity+First+Advocate;High-Performance+Software;Systems+Design+Engineer;Minecraft+Plugin+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Simplicity+First+Advocate;High-Performance+Software+Builder;Cross-Platform+Developer;Minecraft+Ecosystem+Enthusiast" />
 
 </div>
 
@@ -12,19 +12,19 @@
 
 ## 🧠 About Me
 
-✨ **"Simplicity First"** advocate focused on lightweight, local-first development
-💻 Building high-performance system utilities and cross-platform tools
-🛠️ Deeply invested in the Minecraft modding ecosystem and plugin architecture
-🚀 Goal: Building robust, scalable software across diverse technical fields
+✨ **"Simplicity First"** advocate focused on efficient, maintainable architecture.
+💻 Crafting high-performance software across the stack—from system tools to web interfaces.
+🛠️ Experienced in building cross-platform applications and Minecraft-related technologies.
+🚀 Passionate about exploring new domains and optimizing performance where it matters most.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/wayback09"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/wayback09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://modrinth.com/user/wayback"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
-<a href="mailto:wayback145b@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:wayback145b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,10 +37,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img height="150" src="https://streak-stats.demolab.com?user=wayback09&theme=radical&hide_border=true" />
+  
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wayback09&theme=react-dark&hide_border=true&area=true&color=38bdf8" />
+
 </div>
 
 ---
