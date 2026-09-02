@@ -37,14 +37,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wayback09&theme=react-dark&hide_border=true&area=true&color=38bdf8" />
-
-</div>
-
----
