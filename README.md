@@ -33,7 +33,7 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,java,flask,js,typescript,react,nodejs,nextjs,electron,git,bash,linux,windows,sqlite,postgres,svelte,html,css,vscode," />
+<img src="https://skillicons.dev/icons?i=python,go,java,rust,js,typescript,react,svelte,git,bash,linux,windows,sqlite,postgres,html,css" />
 </div>
 
 ---
