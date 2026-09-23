@@ -1,39 +1,46 @@
 <div align="center">
 
-# 👋 Hi, I'm Wayback
+# Wayback
 
-### 🚀 Systems Enthusiast | Python, Go, Java Developer
+**Systems developer building fast, simple software.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Simplicity+First+Advocate;High-Performance+Software+Builder;Cross-Platform+Developer;Minecraft+Ecosystem+Enthusiast" />
+Go · Rust · TypeScript · Python
+
+[GitHub](https://github.com/wayback09) · [Modrinth](https://modrinth.com/user/wayback) · [Discord](https://discord.com/users/1467226109237264650) · [Email](mailto:wayback145b@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-✨ **"Simplicity First"** advocate focused on efficient, maintainable architecture.
-💻 Crafting high-performance software across the stack—from system tools to web interfaces.
-🛠️ Experienced in building cross-platform applications and Minecraft-related technologies.
-🚀 Passionate about exploring new domains and optimizing performance where it matters most.
+I build software with a focus on simplicity, performance, and maintainability.
 
----
+Currently working on projects across:
 
-## 🌐 Contacts
+* Desktop applications
+* Developer tooling
+* Minecraft infrastructure and tooling
+* Experimental systems software
 
-<p align="center">
-<a href="https://github.com/wayback09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://modrinth.com/user/wayback"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
-<a href="mailto:wayback145b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.com/users/1467226109237264650"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+## Stack
 
----
+**Languages**
 
-## ⚙️ Tech Stack
+Go · Rust · TypeScript · Python
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,java,rust,js,typescript,react,svelte,git,bash,linux,windows,sqlite,postgres,html,css" />
-</div>
+**Technologies**
+
+Wails · Svelte · React · SQLite · PostgreSQL · Git · Linux · Windows
 
 ---
+
+## Projects
+
+**Aether** — A lightweight, extensible Minecraft launcher.
+
+**Chronicle** — An experimental Rust-based editor and renderer for Minecraft Flashback recordings.
+
+**Poly** — A cross-language plugin platform for Minecraft servers.
+
+**Chegg MC** — A Minecraft server and minigame project.
